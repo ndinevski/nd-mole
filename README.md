@@ -20,14 +20,6 @@
 
 ## Installation
 
-You can include the following commands and links in your documentation to allow users to clone the repository or download the script.
-
-### Updated **Installation** Section
-
----
-
-## Installation
-
 1. Clone the repository or download this script:
 
    - `git clone https://github.com/ndinevski/nd-mole.git`
