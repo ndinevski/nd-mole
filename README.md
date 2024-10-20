@@ -32,7 +32,7 @@ You can include the following commands and links in your documentation to allow 
 
    - `git clone https://github.com/ndinevski/nd-mole.git`
 
-   - Download [nd-mole.sh]()
+   - Download [nd-mole.sh](https://github.com/ndinevski/nd-mole/blob/master/nd-mole.sh)
 2. Make sure the script has execution permissions:
 
    ```bash
